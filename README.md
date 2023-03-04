@@ -1,5 +1,5 @@
 # Swordman
-Swordman Action
+Swordman Action  
 a: sword up & down (can be canceled)  
 s: sting  
 d: windmill slash  
